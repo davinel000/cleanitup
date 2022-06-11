@@ -48,7 +48,7 @@ MonoBehaviour:
       id: 0
     lineID: -1
     useIconID: 0
-    binID: -1
+    binID: 0
     overrideUseSyntax: 0
     hotspotPrefix1:
       label: Use
@@ -103,7 +103,7 @@ MonoBehaviour:
       id: 0
     lineID: -1
     useIconID: 0
-    binID: -1
+    binID: 0
     overrideUseSyntax: 0
     hotspotPrefix1:
       label: Use
@@ -123,7 +123,9 @@ MonoBehaviour:
     useSeparateSlots: 0
     selectSingle: 0
     showInFilter: 1
-  bins: []
+  bins:
+  - label: Category 1
+    id: 0
   invVars: []
   unhandledCombine: {fileID: 0}
   unhandledHotspot: {fileID: 0}

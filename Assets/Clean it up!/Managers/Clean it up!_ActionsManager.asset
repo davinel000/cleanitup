@@ -73,7 +73,7 @@ MonoBehaviour:
       one) simultaneously. This is useful when making complex cutscenes that require
       timing to be exact.
     isEnabled: 1
-    color: {r: 1, g: 1, b: 1, a: 1}
+    color: {r: 0.70980394, g: 0.32156864, b: 0.2901961, a: 1}
   - fileName: ActionParamSet
     category: 0
     title: Set parameter
