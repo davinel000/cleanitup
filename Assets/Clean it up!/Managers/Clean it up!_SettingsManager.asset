@@ -67,7 +67,7 @@ MonoBehaviour:
   shareInventory: 0
   inventoryDragDrop: 0
   dragDropThreshold: 0
-  allowInventoryInteractionsDuringConversations: 1
+  allowInventoryInteractionsDuringConversations: 0
   inventoryDropLook: 0
   inventoryDropLookNoDrag: 0
   inventoryInteractions: 1
@@ -92,7 +92,7 @@ MonoBehaviour:
   autoDisableUnhandledHotspots: 0
   clickPrefab: {fileID: 0}
   clickMarkerPosition: 0
-  walkableClickRange: 0.256
+  walkableClickRange: 0.5
   navMeshSearchDirection: 1
   ignoreOffScreenNavMesh: 1
   doubleClickMovement: 0
@@ -107,7 +107,7 @@ MonoBehaviour:
   destinationAccuracy: 0.8
   experimentalAccuracy: 0
   unityUIClicksAlwaysBlocks: 0
-  pathfindUpdateFrequency: 1.56
+  pathfindUpdateFrequency: 0
   verticalReductionFactor: 1
   rotationsAffectedByVerticalReduction: 1
   jumpSpeed: 4
@@ -134,7 +134,7 @@ MonoBehaviour:
   touchUpInteractScene: 0
   forceAspectRatio: 0
   aspectRatioEnforcement: 1
-  wantedAspectRatio: 1.77
+  wantedAspectRatio: 1.667
   maxAspectRatio: 2.39
   renderBorderCamera: 1
   landscapeModeOnly: 1
