@@ -994,9 +994,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 15
   title: Lower panel
-  manualSize: {x: 47.88173, y: 10.47629}
+  manualSize: {x: 76, y: 12.7}
   positionType: 1
-  manualPosition: {x: 392, y: 417.89978}
+  manualPosition: {x: 392, y: 412.99652}
   positionSmoothing: 0
   alignment: 7
   toggleKey: 
@@ -1032,8 +1032,8 @@ MonoBehaviour:
   - {fileID: -3751758675872532927}
   - {fileID: -2676415304954953214}
   - {fileID: 1853690467847679959}
-  spacing: 1.85
-  sizeType: 0
+  spacing: 3.68
+  sizeType: 1
   autoSizeEveryFrame: 0
   orientation: 0
   transitionType: 0
@@ -1071,13 +1071,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 338.40088, y: 32.60022}
+  biggestElementSize: {x: 212.40088, y: 32.60022}
   rect:
     serializedVersion: 2
-    x: 215.99945
-    y: 394.79956
-    width: 352.0011
-    height: 46.20044
+    x: 112.64414
+    y: 384.993
+    width: 558.71173
+    height: 56.007
   showInFilter: 1
 --- !u!114 &-5599286290022910907
 MonoBehaviour:
@@ -2134,15 +2134,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ID: 0
-  title: Energy
-  slotSize: {x: 2.720544, y: 4.30839}
+  title: Mood
+  slotSize: {x: 18.635727, y: 4.9886622}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
   lineID: -1
   alternativeInputButton: 
-  font: {fileID: 0}
-  fontScaleFactor: 2.389
+  font: {fileID: 12800000, guid: e16189a419a022a42b5b07723aed15a2, type: 3}
+  fontScaleFactor: 3
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
@@ -2160,18 +2160,18 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 91.20045
-    y: 13.600221
-    width: 20
-    height: 19
+    x: 195.10681
+    y: 27.053411
+    width: 137
+    height: 22
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
-  _label: 50
+  _label: 'MOOD: [var:2]'
   anchor: 6
   textEffects: 0
-  outlineSize: 2
-  labelType: 4
+  outlineSize: 3.88
+  labelType: 0
   variableID: 0
   useCharacterColour: 0
   autoAdjustHeight: 1
@@ -2771,15 +2771,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ID: 3
-  title: 'Time:'
-  slotSize: {x: 23.260653, y: 3.6281178}
+  title: Time Integer
+  slotSize: {x: 8.29766, y: 4.9886622}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
   lineID: -1
   alternativeInputButton: 
-  font: {fileID: 0}
-  fontScaleFactor: 2
+  font: {fileID: 12800000, guid: e16189a419a022a42b5b07723aed15a2, type: 3}
+  fontScaleFactor: 3
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
@@ -2797,14 +2797,14 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 124.80067
-    y: 13.600221
-    width: 171
-    height: 15.999999
+    x: 359.16022
+    y: 27.053411
+    width: 61
+    height: 22
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
-  _label: DAY [var:3],T[var:4]:[var:5]
+  _label: '[var:3]'
   anchor: 4
   textEffects: 0
   outlineSize: 2
@@ -4844,15 +4844,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ID: 2
-  title: Label
-  slotSize: {x: 3.9447892, y: 3.6281178}
-  sizeType: 0
+  title: Time
+  slotSize: {x: 12.9, y: 4.9886622}
+  sizeType: 1
   positionType: 0
   slotSpacing: 0
   lineID: -1
   alternativeInputButton: 
-  font: {fileID: 0}
-  fontScaleFactor: 2
+  font: {fileID: 12800000, guid: e16189a419a022a42b5b07723aed15a2, type: 3}
+  fontScaleFactor: 3
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
@@ -4867,21 +4867,21 @@ MonoBehaviour:
   changeCursor: 0
   cursorID: 0
   linkedUiID: 0
-  maxAutoWidthFactor: 0.5
+  maxAutoWidthFactor: 0.829
   relativeRect:
     serializedVersion: 2
-    x: 309.40088
-    y: 13.600221
-    width: 29.000002
-    height: 15.999999
+    x: 447.21362
+    y: 27.053411
+    width: 94.83397
+    height: 22
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
-  _label: time
-  anchor: 4
+  _label: '[var:6]'
+  anchor: 5
   textEffects: 0
   outlineSize: 2
-  labelType: 4
+  labelType: 0
   variableID: 6
   useCharacterColour: 0
   autoAdjustHeight: 1
@@ -5925,14 +5925,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 1
   title: Energy Label
-  slotSize: {x: 8.705742, y: 3.6281178}
+  slotSize: {x: 19.179836, y: 4.9886622}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
   lineID: -1
   alternativeInputButton: 
-  font: {fileID: 0}
-  fontScaleFactor: 2
+  font: {fileID: 12800000, guid: e16189a419a022a42b5b07723aed15a2, type: 3}
+  fontScaleFactor: 3
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
@@ -5950,14 +5950,14 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 13.600221
-    y: 13.600221
-    width: 64.00001
-    height: 15.999999
+    x: 27.053411
+    y: 27.053411
+    width: 141
+    height: 22
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
-  _label: 'ENERGY:'
+  _label: 'ENERGY: [var:1]'
   anchor: 4
   textEffects: 0
   outlineSize: 2
