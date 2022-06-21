@@ -34,7 +34,7 @@ MonoBehaviour:
     autosaveLabelID: -1
   referenceScenesInSave: 0
   sceneAttributes: []
-  actionListOnStart: {fileID: 0}
+  actionListOnStart: {fileID: 11400000, guid: cc97c3dd74c46f64ca5aaac148a1cb55, type: 2}
   blackOutWhenSkipping: 0
   playerSwitching: 1
   player: {fileID: 0}
@@ -119,7 +119,18 @@ MonoBehaviour:
   freeAimSmoothSpeed: 50
   firstPersonMovementSmoothing: 1
   assumeInputsDefined: 0
-  activeInputs: []
+  activeInputs:
+  - label: b for banana
+    ID: 1
+    inputName: b
+    enabledOnStart: 1
+    gameState: 0
+    gameStateFlags: -1
+    actionListAsset: {fileID: 11400000, guid: fee69a78aaa13f94a90970eb25d7ddc9, type: 2}
+    inputType: 0
+    axisThreshold: 0.2
+    buttonType: 0
+    hasUpgraded: 1
   freeAimTouchSpeed: 0.01
   dragWalkThreshold: 5
   dragRunThreshold: 20
