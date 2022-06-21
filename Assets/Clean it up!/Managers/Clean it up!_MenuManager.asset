@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: Look
-  slotSize: {x: 7.6190476, y: 8.888889}
+  slotSize: {x: 4.5381, y: 7.565012}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
@@ -39,9 +39,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 67.402
-    y: 1.1340001
-    width: 31.999998
+    x: 69.71164
+    y: 1.9038807
+    width: 32
     height: 32
   relativePosition: {x: 0, y: 0}
   numSlots: 1
@@ -98,10 +98,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 104.99999
-    height: 56.88
+    x: 3.5539105
+    y: 234.93387
+    width: 176.28525
+    height: 66.834
   relativePosition: {x: 0.9, y: 70.7}
   numSlots: 1
   uiText: {fileID: 0}
@@ -159,10 +159,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 209.99998
-    height: 36
+    x: 23.547436
+    y: 109.09427
+    width: 352.5705
+    height: 42.3
   relativePosition: {x: 6, y: 64}
   numSlots: 5
   uiSlots:
@@ -245,10 +245,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 14.700001
-    y: 2.1
-    width: 382.19998
-    height: 39.6
+    x: 24.679935
+    y: 3.5257049
+    width: 641.6783
+    height: 46.53
   relativePosition: {x: 0, y: 0}
   numSlots: 13
   uiSlots:
@@ -330,7 +330,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 6
   title: CloseButton
-  slotSize: {x: 5.4761906, y: 2.2222223}
+  slotSize: {x: 5.6726246, y: 3.3096926}
   sizeType: 0
   positionType: 2
   slotSpacing: 0
@@ -355,10 +355,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 23
-    height: 8
+    x: 270.4712
+    y: 269.2987
+    width: 40
+    height: 14
   relativePosition: {x: 84.7, y: 92}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -425,10 +425,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 223.43999
-    height: 15.114504
+    x: 3.4460237
+    y: 3.3402793
+    width: 375.135
+    height: 17.759542
   relativePosition: {x: 0.9, y: 1.2}
   numSlots: 1
   uiText: {fileID: 11405610, guid: f15f8212986624a8899a47f0054ebbc1, type: 3}
@@ -556,10 +556,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 36.539997
-    height: 15.114504
+    x: 232.41516
+    y: 250.79929
+    width: 61.347263
+    height: 17.759542
   relativePosition: {x: 60.7, y: 90.1}
   numSlots: 1
   uiButton: {fileID: 11470026, guid: f15f8212986624a8899a47f0054ebbc1, type: 3}
@@ -626,10 +626,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 33.6
-    height: 18
+    x: 212.44487
+    y: 148.5367
+    width: 56.411278
+    height: 21.15
   relativePosition: {x: 53.8, y: 44.7}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -696,10 +696,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.1
-    y: 97.79999
-    width: 147
-    height: 3.6
+    x: 3.5257049
+    y: 117.0314
+    width: 246.79935
+    height: 4.23
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiSlider: {fileID: 0}
@@ -924,7 +924,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 8
   title: InventoryLabel
-  slotSize: {x: 9.523809, y: 2.2222223}
+  slotSize: {x: 9.785277, y: 3.3096926}
   sizeType: 0
   positionType: 2
   slotSpacing: 0
@@ -949,10 +949,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 39.999996
-    height: 8
+    x: 11.815153
+    y: 175.6296
+    width: 69
+    height: 14
   relativePosition: {x: 3.7, y: 60}
   numSlots: 1
   uiText: {fileID: 0}
@@ -994,11 +994,11 @@ MonoBehaviour:
   _isLocked: 0
   id: 15
   title: Lower panel
-  manualSize: {x: 76, y: 12.7}
+  manualSize: {x: 15.7, y: 52}
   positionType: 1
-  manualPosition: {x: 392, y: 412.99652}
+  manualPosition: {x: 78.78306, y: 313.02002}
   positionSmoothing: 0
-  alignment: 7
+  alignment: 6
   toggleKey: 
   ignoreMouseClicks: 0
   pauseWhenEnabled: 0
@@ -1032,10 +1032,10 @@ MonoBehaviour:
   - {fileID: -3751758675872532927}
   - {fileID: -2676415304954953214}
   - {fileID: 1853690467847679959}
-  spacing: 3.68
+  spacing: 1.95
   sizeType: 1
   autoSizeEveryFrame: 0
-  orientation: 0
+  orientation: 1
   transitionType: 0
   panDirection: 0
   panMovement: 0
@@ -1074,10 +1074,10 @@ MonoBehaviour:
   biggestElementSize: {x: 212.40088, y: 32.60022}
   rect:
     serializedVersion: 2
-    x: 112.64414
-    y: 384.993
-    width: 558.71173
-    height: 56.007
+    x: 23.429491
+    y: 203.04001
+    width: 110.70714
+    height: 219.95999
   showInFilter: 1
 --- !u!114 &-5599286290022910907
 MonoBehaviour:
@@ -1188,10 +1188,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 104.99999
-    height: 18
+    x: 3.5539105
+    y: 209.34702
+    width: 176.28525
+    height: 21.15
   relativePosition: {x: 0.9, y: 63}
   numSlots: 1
   uiText: {fileID: 0}
@@ -1224,7 +1224,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 1
   title: Use
-  slotSize: {x: 7.6190476, y: 8.888889}
+  slotSize: {x: 4.5381, y: 7.565012}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
@@ -1249,9 +1249,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 1.1340001
-    y: 1.1340001
-    width: 31.999998
+    x: 1.9038807
+    y: 1.9038807
+    width: 32
     height: 32
   relativePosition: {x: 0, y: 0}
   numSlots: 1
@@ -1292,7 +1292,7 @@ MonoBehaviour:
   _isLocked: 0
   id: 5
   title: Conversation
-  manualSize: {x: 36.000004, y: 28.749996}
+  manualSize: {x: 36, y: 29.500498}
   positionType: 2
   manualPosition: {x: 24, y: 69.7}
   positionSmoothing: 0
@@ -1365,13 +1365,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 149.1, y: 101.39999}
+  biggestElementSize: {x: 250.32506, y: 121.261406}
   rect:
     serializedVersion: 2
-    x: 25.19999
-    y: 199.16998
-    width: 151.20001
-    height: 103.499985
+    x: 65.737946
+    y: 232.43744
+    width: 253.85077
+    height: 124.78711
   showInFilter: 1
 --- !u!114 &-4799928263467693691
 MonoBehaviour:
@@ -1387,7 +1387,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 7
   title: IngredientsLabel
-  slotSize: {x: 10.952381, y: 2.2222223}
+  slotSize: {x: 11.6288805, y: 3.3096926}
   sizeType: 0
   positionType: 2
   slotSpacing: 0
@@ -1412,10 +1412,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 46
-    height: 8
+    x: 9.579853
+    y: 8.781479
+    width: 82
+    height: 14
   relativePosition: {x: 3, y: 3}
   numSlots: 1
   uiText: {fileID: 0}
@@ -1448,21 +1448,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 1
   title: SubsLineLabel
-  slotSize: {x: 50, y: 4.8}
-  sizeType: 1
-  positionType: 0
+  slotSize: {x: 2.4108653, y: 5.200946}
+  sizeType: 0
+  positionType: 1
   slotSpacing: 0
   lineID: 87
   alternativeInputButton: 
-  font: {fileID: 12800000, guid: c6e3b07edbe7e4f62837dde56356b819, type: 3}
-  fontScaleFactor: 1.5
+  font: {fileID: 12800000, guid: 86c95e24cad1f457193772d2521f9ebc, type: 3}
+  fontScaleFactor: 2.751
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
   isClickable: 0
   orientation: 0
   gridWidth: 3
-  backgroundTexture: {fileID: 2800000, guid: 5f4f3dd6223164fe49aea7eb6c0bc529, type: 3}
+  backgroundTexture: {fileID: 0}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 0}
   hoverSound: {fileID: 0}
@@ -1470,18 +1470,18 @@ MonoBehaviour:
   changeCursor: 0
   cursorID: 0
   linkedUiID: 14540120
-  maxAutoWidthFactor: 0.5
+  maxAutoWidthFactor: 0.527
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 25.199999
-    width: 209.99998
-    height: 17.28
+    x: 95
+    y: 20
+    width: 17
+    height: 22.000002
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
   _label: Hi!
-  anchor: 0
+  anchor: 3
   textEffects: 0
   outlineSize: 2
   labelType: 2
@@ -1518,9 +1518,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 9
   title: Subtitles
-  manualSize: {x: 50, y: 28}
+  manualSize: {x: 74, y: 24.1}
   positionType: 2
-  manualPosition: {x: 50, y: 79.9}
+  manualPosition: {x: 53.8, y: 69.4}
   positionSmoothing: 0
   alignment: 0
   toggleKey: 
@@ -1534,8 +1534,9 @@ MonoBehaviour:
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: 5f4f3dd6223164fe49aea7eb6c0bc529, type: 3}
   visibleElements:
+  - {fileID: 6552101990502148667}
   - {fileID: -2351282931236878566}
   - {fileID: -4728460785812818162}
   transitionProgress: 0
@@ -1550,6 +1551,7 @@ MonoBehaviour:
   autoSelectFirstVisibleElement: 0
   firstSelectedElement: 
   elements:
+  - {fileID: 6552101990502148667}
   - {fileID: -2351282931236878566}
   - {fileID: -4728460785812818162}
   spacing: 0
@@ -1594,10 +1596,10 @@ MonoBehaviour:
   biggestElementSize: {x: 0, y: 0}
   rect:
     serializedVersion: 2
-    x: 105
-    y: 237.24002
-    width: 210
-    height: 100.8
+    x: 141.89319
+    y: 242.59052
+    width: 521.8043
+    height: 101.943
   showInFilter: 1
 --- !u!114 &-4525878142091521077
 MonoBehaviour:
@@ -1699,10 +1701,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 33.6
-    height: 18
+    x: 134.65372
+    y: 148.5367
+    width: 56.411278
+    height: 21.15
   relativePosition: {x: 34.1, y: 44.7}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -1769,10 +1771,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.1
-    y: 22.2
-    width: 151.2
-    height: 18
+    x: 3.5257049
+    y: 28.20141
+    width: 253.85075
+    height: 21.15
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiSlider: {fileID: 0}
@@ -1877,7 +1879,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: CloseButton
-  slotSize: {x: 5.4761906, y: 2.2222223}
+  slotSize: {x: 5.6726246, y: 3.3096926}
   sizeType: 0
   positionType: 2
   slotSpacing: 0
@@ -1902,10 +1904,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 23
-    height: 8
+    x: 351.24924
+    y: 153.75473
+    width: 40
+    height: 14
   relativePosition: {x: 89.5, y: 90.2}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -1958,10 +1960,10 @@ MonoBehaviour:
   title: Objectives
   manualSize: {x: 56, y: 78.557175}
   positionType: 0
-  manualPosition: {x: 210, y: 180}
+  manualPosition: {x: 376, y: 211.5}
   positionSmoothing: 0
   alignment: 0
-  toggleKey: 
+  toggleKey: q
   ignoreMouseClicks: 0
   pauseWhenEnabled: 0
   showWhenPaused: 0
@@ -2046,10 +2048,10 @@ MonoBehaviour:
   biggestElementSize: {x: 0, y: 0}
   rect:
     serializedVersion: 2
-    x: 92.4
-    y: 38.59709
-    width: 235.2
-    height: 282.80582
+    x: 178.56052
+    y: 45.351578
+    width: 394.87897
+    height: 332.29684
   showInFilter: 1
 --- !u!114 &-4032167823757444826
 MonoBehaviour:
@@ -2065,7 +2067,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 3
   title: TakeAllButton
-  slotSize: {x: 8.333333, y: 2.2222223}
+  slotSize: {x: 8.367121, y: 3.3096926}
   sizeType: 0
   positionType: 2
   slotSpacing: 0
@@ -2090,10 +2092,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 34.999996
-    height: 8
+    x: 333.1962
+    y: 74.320465
+    width: 58.999996
+    height: 14
   relativePosition: {x: 84.9, y: 43.6}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -2135,7 +2137,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: Mood
-  slotSize: {x: 18.635727, y: 4.9886622}
+  slotSize: {x: 18.861477, y: 4.964539}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
@@ -2160,10 +2162,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 195.10681
-    y: 27.053411
-    width: 137
-    height: 22
+    x: 13.75025
+    y: 48.500496
+    width: 133
+    height: 21
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
@@ -2221,10 +2223,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 209.99998
-    height: 36
+    x: 23.547436
+    y: 22.159773
+    width: 352.5705
+    height: 42.3
   relativePosition: {x: 6, y: 13}
   numSlots: 5
   uiSlots:
@@ -2418,10 +2420,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 8.4
-    height: 36
+    x: 372.83438
+    y: 23.012072
+    width: 14.102819
+    height: 42.3
   relativePosition: {x: 95, y: 13.5}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -2488,10 +2490,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 8.4
-    height: 57.6
+    x: 293.78217
+    y: 193.19255
+    width: 14.102819
+    height: 67.68
   relativePosition: {x: 92, y: 66}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -2664,10 +2666,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.1
-    y: 122.7
-    width: 151.2
-    height: 18
+    x: 3.5257049
+    y: 151.57994
+    width: 253.85075
+    height: 21.15
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -2734,10 +2736,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.1
-    y: 42.3
-    width: 151.2
-    height: 18
+    x: 3.5257049
+    y: 52.877113
+    width: 253.85075
+    height: 21.15
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiSlider: {fileID: 0}
@@ -2772,7 +2774,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 3
   title: Time Integer
-  slotSize: {x: 8.29766, y: 4.9886622}
+  slotSize: {x: 8.508937, y: 4.964539}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
@@ -2797,10 +2799,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 359.16022
-    y: 27.053411
-    width: 61
-    height: 22
+    x: 13.75025
+    y: 83.25075
+    width: 60
+    height: 21
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
@@ -2833,7 +2835,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 5
   title: CreateButton
-  slotSize: {x: 6.1904764, y: 2.2222223}
+  slotSize: {x: 6.6653337, y: 3.3096926}
   sizeType: 0
   positionType: 2
   slotSpacing: 0
@@ -2858,10 +2860,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 26
-    height: 8
+    x: 229.91649
+    y: 110.93936
+    width: 47
+    height: 14
   relativePosition: {x: 72, y: 37.9}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -2973,21 +2975,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: SubsSpeakerLabel
-  slotSize: {x: 50, y: 7}
+  slotSize: {x: 12, y: 7}
   sizeType: 1
   positionType: 0
   slotSpacing: 0
   lineID: 86
   alternativeInputButton: 
-  font: {fileID: 12800000, guid: c6e3b07edbe7e4f62837dde56356b819, type: 3}
-  fontScaleFactor: 2
+  font: {fileID: 12800000, guid: 86c95e24cad1f457193772d2521f9ebc, type: 3}
+  fontScaleFactor: 3.536
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
   isClickable: 0
   orientation: 0
   gridWidth: 3
-  backgroundTexture: {fileID: 2800000, guid: 5f4f3dd6223164fe49aea7eb6c0bc529, type: 3}
+  backgroundTexture: {fileID: 0}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 0}
   hoverSound: {fileID: 0}
@@ -2999,9 +3001,9 @@ MonoBehaviour:
   relativeRect:
     serializedVersion: 2
     x: 0
-    y: 0
-    width: 209.99998
-    height: 25.199999
+    y: 71.91
+    width: 84.61691
+    height: 29.61
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
@@ -3059,10 +3061,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.1
-    y: 22.2
-    width: 230.99998
-    height: 90
+    x: 3.5257049
+    y: 28.20141
+    width: 387.82755
+    height: 105.75
   relativePosition: {x: 0, y: 0}
   numSlots: 5
   uiSlots:
@@ -3129,7 +3131,7 @@ MonoBehaviour:
   _isLocked: 0
   id: 11
   title: Hotspot
-  manualSize: {x: 33.999996, y: 11.999999}
+  manualSize: {x: 34, y: 12.000001}
   positionType: 3
   manualPosition: {x: 50, y: 44.4}
   positionSmoothing: 0
@@ -3200,13 +3202,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 142.79999, y: 43.199997}
+  biggestElementSize: {x: 239.74792, y: 50.760002}
   rect:
     serializedVersion: 2
-    x: 138.6
-    y: 138.23999
-    width: 142.79999
-    height: 43.199997
+    x: 256.12604
+    y: 162.43199
+    width: 239.74792
+    height: 50.760002
   showInFilter: 1
 --- !u!114 &-1252944203888819135
 MonoBehaviour:
@@ -3247,10 +3249,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 8.4
-    height: 57.6
+    x: 12.773138
+    y: 193.19255
+    width: 14.102819
+    height: 67.68
   relativePosition: {x: 4, y: 66}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -3317,10 +3319,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.1
-    y: 102.6
-    width: 151.2
-    height: 18
+    x: 3.5257049
+    y: 126.90423
+    width: 253.85075
+    height: 21.15
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiToggle: {fileID: 0}
@@ -3380,10 +3382,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.1
-    y: 82.5
-    width: 151.2
-    height: 18
+    x: 3.5257049
+    y: 102.22852
+    width: 253.85075
+    height: 21.15
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -3395,7 +3397,8 @@ MonoBehaviour:
   outlineSize: 2
   anchor: 3
   selected: 0
-  optionsArray: []
+  optionsArray:
+  - Original
   cycleType: 0
   splitLanguageType: 0
   varID: 0
@@ -3442,10 +3445,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 8.382874
-    height: 19.8
+    x: 148.17903
+    y: 249.40752
+    width: 14.074067
+    height: 23.265
   relativePosition: {x: 38.7, y: 89.6}
   numSlots: 1
   uiButton: {fileID: 11478532, guid: f15f8212986624a8899a47f0054ebbc1, type: 3}
@@ -3582,10 +3585,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.1
-    y: 2.1
-    width: 10.5
-    height: 39.6
+    x: 3.5257049
+    y: 3.5257049
+    width: 17.628525
+    height: 46.53
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -3652,10 +3655,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.1
-    y: 2.1
-    width: 147
-    height: 93.59999
+    x: 3.5257049
+    y: 3.5257049
+    width: 246.79935
+    height: 109.979996
   relativePosition: {x: 0, y: 0}
   numSlots: 5
   uiSlots:
@@ -3722,6 +3725,7 @@ MonoBehaviour:
   - {fileID: 1242421449758339304}
   - {fileID: -1631967838136369250}
   - {fileID: -5726115113534165522}
+  - {fileID: 819148577327456780}
   globalDepth: 0
   pauseTexture: {fileID: 0}
   scaleTextEffects: 0
@@ -3775,10 +3779,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 8.382876
-    height: 19.8
+    x: 361.06674
+    y: 249.40752
+    width: 14.074071
+    height: 23.265
   relativePosition: {x: 94.3, y: 89.6}
   numSlots: 1
   uiButton: {fileID: 11435390, guid: f15f8212986624a8899a47f0054ebbc1, type: 3}
@@ -3845,10 +3849,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.1
-    y: 2.1
-    width: 229.31998
-    height: 11.055662
+    x: 3.5257049
+    y: 3.5257049
+    width: 385.00696
+    height: 12.990403
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
@@ -3906,10 +3910,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.1
-    y: 2.1
-    width: 230.99998
-    height: 18
+    x: 3.5257049
+    y: 3.5257049
+    width: 387.82755
+    height: 21.15
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
@@ -3967,10 +3971,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.1
-    y: 2.1
-    width: 26.46
-    height: 17.28
+    x: 3.5257049
+    y: 3.5257049
+    width: 44.42388
+    height: 20.304
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -4068,6 +4072,108 @@ MonoBehaviour:
   clickTexture: {fileID: 0}
   allowContinuousClick: 0
   uiSelectableHideStyle: 0
+--- !u!114 &819148577327456780
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5f455f0e4a864975bf60bc153fbe20d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  menuSource: 0
+  canvas: {fileID: 0}
+  canvasAssetKey: 
+  canvasID: 0
+  rectTransform: {fileID: 0}
+  rectTransformID: 0
+  uiTransitionType: 0
+  uiPositionType: 0
+  _isLocked: 0
+  id: 16
+  title: Objectives button
+  manualSize: {x: 18.2, y: 7.7}
+  positionType: 2
+  manualPosition: {x: 0, y: 45.7}
+  positionSmoothing: 0
+  alignment: 3
+  toggleKey: 
+  ignoreMouseClicks: 0
+  pauseWhenEnabled: 0
+  showWhenPaused: 0
+  canClickInCutscene: 0
+  enabledOnStart: 1
+  actionListOnTurnOn: {fileID: 0}
+  actionListOnTurnOff: {fileID: 0}
+  updateWhenFadeOut: 1
+  hideDuringSaveScreenshots: 1
+  fitWithinScreen: 1
+  backgroundTexture: {fileID: 0}
+  visibleElements:
+  - {fileID: 7869547701274123072}
+  transitionProgress: 0
+  appearType: 12
+  speechMenuType: 0
+  speechMenuLimit: 0
+  limitToCharacters: 
+  forceSubtitles: 0
+  moveWithCharacter: 1
+  selected_element: {fileID: 0}
+  selected_slot: 0
+  autoSelectFirstVisibleElement: 0
+  firstSelectedElement: 
+  elements:
+  - {fileID: 7869547701274123072}
+  spacing: 0
+  sizeType: 0
+  autoSizeEveryFrame: 0
+  orientation: 1
+  transitionType: 4
+  panDirection: 0
+  panMovement: 0
+  timeCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panDistance: 0.5
+  fadeSpeed: 0
+  zoomAnchor: 4
+  zoomElements: 0
+  oneMenuPerSpeech: 0
+  speechProximityLimit: 0
+  speechProximityDistance: 10
+  deleteUIWhenTurnOff: 0
+  biggestElementSize: {x: 128.33566, y: 32.571}
+  rect:
+    serializedVersion: 2
+    x: 23.429491
+    y: 177.02551
+    width: 128.33566
+    height: 32.571
+  showInFilter: 1
 --- !u!114 &1042101087101482048
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -4279,7 +4385,7 @@ MonoBehaviour:
   _isLocked: 0
   id: 6
   title: Interaction
-  manualSize: {x: 24.207142, y: 9.518888}
+  manualSize: {x: 14.964297, y: 8.465192}
   positionType: 4
   manualPosition: {x: 50, y: 50}
   positionSmoothing: 0
@@ -4356,13 +4462,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 100.535995, y: 33.134}
+  biggestElementSize: {x: 103.61552, y: 33.90388}
   rect:
     serializedVersion: 2
-    x: 159.16501
-    y: 162.866
-    width: 101.67
-    height: 34.267998
+    x: 323.2403
+    y: 193.59612
+    width: 105.519394
+    height: 35.807762
   showInFilter: 1
 --- !u!114 &1367810359881834452
 MonoBehaviour:
@@ -4488,10 +4594,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 8.4
-    height: 36
+    x: 5.886859
+    y: 23.012072
+    width: 14.102819
+    height: 42.3
   relativePosition: {x: 1.5, y: 13.5}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -4666,7 +4772,7 @@ MonoBehaviour:
   title: Container
   manualSize: {x: 55.656563, y: 40.297825}
   positionType: 0
-  manualPosition: {x: 210, y: 180}
+  manualPosition: {x: 376, y: 211.5}
   positionSmoothing: 0
   alignment: 4
   toggleKey: 
@@ -4756,10 +4862,10 @@ MonoBehaviour:
   biggestElementSize: {x: 0, y: 0}
   rect:
     serializedVersion: 2
-    x: 93.121216
-    y: 107.46391
-    width: 233.75757
-    height: 145.07217
+    x: 179.77138
+    y: 126.2701
+    width: 392.45724
+    height: 170.4598
   showInFilter: 1
 --- !u!114 &1738369288945557684
 MonoBehaviour:
@@ -4870,10 +4976,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.829
   relativeRect:
     serializedVersion: 2
-    x: 447.21362
-    y: 27.053411
-    width: 94.83397
-    height: 22
+    x: 13.75025
+    y: 118.001
+    width: 90.96318
+    height: 21.102041
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
@@ -4931,10 +5037,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 8.4
-    height: 36
+    x: 372.83438
+    y: 109.09427
+    width: 14.102819
+    height: 42.3
   relativePosition: {x: 95, y: 64}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -5001,10 +5107,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.1
-    y: 22.2
-    width: 125.99999
-    height: 72
+    x: 3.5257049
+    y: 28.20141
+    width: 211.5423
+    height: 84.6
   relativePosition: {x: 0, y: 0}
   numSlots: 4
   uiSlots:
@@ -5061,7 +5167,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 9
   title: OutputLabel
-  slotSize: {x: 6.904762, y: 2.2222223}
+  slotSize: {x: 6.948965, y: 3.3096926}
   sizeType: 0
   positionType: 2
   slotSpacing: 0
@@ -5086,10 +5192,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 28.999998
-    height: 8
+    x: 229.91649
+    y: 8.781479
+    width: 49
+    height: 14
   relativePosition: {x: 72, y: 3}
   numSlots: 1
   uiText: {fileID: 0}
@@ -5149,8 +5255,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 142.79999
-    height: 43.199997
+    width: 239.74792
+    height: 50.760002
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
@@ -5194,7 +5300,7 @@ MonoBehaviour:
   title: Crafting
   manualSize: {x: 45.28576, y: 69.2}
   positionType: 0
-  manualPosition: {x: 210, y: 180}
+  manualPosition: {x: 376, y: 211.5}
   positionSmoothing: 0
   alignment: 5
   toggleKey: 
@@ -5284,10 +5390,10 @@ MonoBehaviour:
   biggestElementSize: {x: 0, y: 0}
   rect:
     serializedVersion: 2
-    x: 114.89991
-    y: 55.440002
-    width: 190.20018
-    height: 249.12
+    x: 216.33577
+    y: 65.14201
+    width: 319.32846
+    height: 292.71597
   showInFilter: 1
 --- !u!114 &2441240554025825585
 MonoBehaviour:
@@ -5328,10 +5434,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 104.99999
-    height: 18
+    x: 3.5539105
+    y: 183.76015
+    width: 176.28525
+    height: 21.15
   relativePosition: {x: 0.9, y: 55.3}
   numSlots: 1
   uiText: {fileID: 0}
@@ -5389,10 +5495,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 229.31998
-    height: 10.364683
+    x: 3.9245725
+    y: 92.04829
+    width: 385.00696
+    height: 12.178503
   relativePosition: {x: 1, y: 54}
   numSlots: 1
   uiText: {fileID: 0}
@@ -5450,10 +5556,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 230.99998
-    height: 18
+    x: 3.5539105
+    y: 307.0423
+    width: 387.82755
+    height: 21.15
   relativePosition: {x: 0.9, y: 92.4}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -5520,10 +5626,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 8.4
-    height: 36
+    x: 5.886859
+    y: 109.09427
+    width: 14.102819
+    height: 42.3
   relativePosition: {x: 1.5, y: 64}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -5590,10 +5696,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.1
-    y: 2.1
-    width: 151.2
-    height: 18
+    x: 3.5257049
+    y: 3.5257049
+    width: 253.85075
+    height: 21.15
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
@@ -5651,10 +5757,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.1
-    y: 62.399998
-    width: 151.2
-    height: 18
+    x: 3.5257049
+    y: 77.55282
+    width: 253.85075
+    height: 21.15
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiSlider: {fileID: 0}
@@ -5698,9 +5804,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 2
   title: Load
-  manualSize: {x: 31, y: 32.333332}
+  manualSize: {x: 31.000002, y: 33.334}
   positionType: 0
-  manualPosition: {x: 210, y: 180}
+  manualPosition: {x: 376, y: 211.5}
   positionSmoothing: 0
   alignment: 0
   toggleKey: 
@@ -5773,13 +5879,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 128.09999, y: 114.299995}
+  biggestElementSize: {x: 215.06801, y: 137.47711}
   rect:
     serializedVersion: 2
-    x: 144.9
-    y: 121.8
-    width: 130.2
-    height: 116.399994
+    x: 266.70312
+    y: 140.9986
+    width: 218.59372
+    height: 141.00282
   showInFilter: 1
 --- !u!114 &2986515087334131132
 MonoBehaviour:
@@ -5820,10 +5926,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.1
-    y: 96.299995
-    width: 125.99999
-    height: 18
+    x: 3.5257049
+    y: 116.32711
+    width: 211.5423
+    height: 21.15
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -5890,10 +5996,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 37.8
-    height: 57.6
+    x: 229.91649
+    y: 29.271599
+    width: 63.46269
+    height: 67.68
   relativePosition: {x: 72, y: 10}
   numSlots: 1
   uiSlots:
@@ -5925,7 +6031,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 1
   title: Energy Label
-  slotSize: {x: 19.179836, y: 4.9886622}
+  slotSize: {x: 19.145107, y: 4.964539}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
@@ -5950,10 +6056,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 27.053411
-    y: 27.053411
-    width: 141
-    height: 22
+    x: 13.75025
+    y: 13.75025
+    width: 135
+    height: 21
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
@@ -5997,7 +6103,7 @@ MonoBehaviour:
   title: Inventory
   manualSize: {x: 100, y: 12.60303}
   positionType: 1
-  manualPosition: {x: 210, y: 22.685453}
+  manualPosition: {x: 376, y: 26.655407}
   positionSmoothing: 0
   alignment: 0
   toggleKey: 
@@ -6073,10 +6179,10 @@ MonoBehaviour:
   biggestElementSize: {x: 0, y: 0}
   rect:
     serializedVersion: 2
-    x: 0
+    x: 23.429491
     y: 0
-    width: 420
-    height: 45.370907
+    width: 705.141
+    height: 53.310814
   showInFilter: 1
 --- !u!114 &3584431397350628835
 MonoBehaviour:
@@ -6117,10 +6223,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 136.5
-    height: 182.87999
+    x: 146.26457
+    y: 30.619226
+    width: 229.17082
+    height: 214.884
   relativePosition: {x: 38.2, y: 11}
   numSlots: 1
   uiText: {fileID: 11435218, guid: f15f8212986624a8899a47f0054ebbc1, type: 3}
@@ -6230,9 +6336,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 4
   title: InGame
-  manualSize: {x: 7.3, y: 5.966667}
+  manualSize: {x: 7.299999, y: 6.4670005}
   positionType: 1
-  manualPosition: {x: 15.33, y: 349.25998}
+  manualPosition: {x: 49.167137, y: 409.3223}
   positionSmoothing: 0
   alignment: 6
   toggleKey: 
@@ -6301,13 +6407,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 28.56, y: 19.380001}
+  biggestElementSize: {x: 47.949585, y: 23.829706}
   rect:
     serializedVersion: 2
-    x: 0
-    y: 338.52
-    width: 30.66
-    height: 21.480001
+    x: 23.429491
+    y: 395.6446
+    width: 51.47529
+    height: 27.355412
   showInFilter: 1
 --- !u!114 &4081176085202854491
 MonoBehaviour:
@@ -6348,10 +6454,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 10.5
-    height: 39.6
+    x: 683.98676
+    y: 4.797973
+    width: 17.628525
+    height: 46.53
   relativePosition: {x: 97, y: 9}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -6418,10 +6524,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 100.535995
-    y: 1.1340001
+    x: 103.61552
+    y: 1.9038807
     width: 0
-    height: 21.599998
+    height: 25.380001
   relativePosition: {x: 0, y: 0}
   numSlots: 0
   uiSlots:
@@ -6498,10 +6604,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 81.05999
-    height: 109.799995
+    x: 3.8289154
+    y: 32.289368
+    width: 136.09221
+    height: 129.015
   relativePosition: {x: 1, y: 11.6}
   numSlots: 1
   uiImage: {fileID: 11483092, guid: f15f8212986624a8899a47f0054ebbc1, type: 3}
@@ -6560,10 +6666,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 75.6
-    height: 115.2
+    x: 9.579853
+    y: 29.271599
+    width: 126.92538
+    height: 135.36
   relativePosition: {x: 3, y: 10}
   numSlots: 4
   uiSlots:
@@ -6604,7 +6710,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 3
   title: Talk
-  slotSize: {x: 7.6190476, y: 8.888889}
+  slotSize: {x: 4.5381, y: 7.565012}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
@@ -6629,9 +6735,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 34.267998
-    y: 1.1340001
-    width: 31.999998
+    x: 35.807762
+    y: 1.9038807
+    width: 32
     height: 32
   relativePosition: {x: 0, y: 0}
   numSlots: 1
@@ -6719,6 +6825,68 @@ MonoBehaviour:
   clickTexture: {fileID: 0}
   allowContinuousClick: 0
   uiSelectableHideStyle: 0
+--- !u!114 &6552101990502148667
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 611a3370e9fc74eebbb277d7159c4851, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ID: 2
+  title: Graphic
+  slotSize: {x: 12, y: 17}
+  sizeType: 1
+  positionType: 0
+  slotSpacing: 0
+  lineID: -1
+  alternativeInputButton: 
+  font: {fileID: 0}
+  fontScaleFactor: 2
+  fontColor: {r: 1, g: 1, b: 1, a: 1}
+  fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
+  isVisible: 1
+  isClickable: 0
+  orientation: 1
+  gridWidth: 3
+  backgroundTexture: {fileID: 0}
+  singleSlotBackgrounds: 0
+  highlightTexture: {fileID: 0}
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 0}
+  changeCursor: 0
+  cursorID: 0
+  linkedUiID: 0
+  maxAutoWidthFactor: 0.5
+  relativeRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 84.61691
+    height: 71.91
+  relativePosition: {x: 0, y: 0}
+  numSlots: 1
+  uiImage: {fileID: 0}
+  graphicType: 1
+  graphic:
+    texture: {fileID: 0}
+    isAnimated: 0
+    numFrames: 1
+    numRows: 1
+    numCols: 1
+    size: 0.015
+    animSpeed: 4
+    endAnimOnLastFrame: 0
+    skipFirstFrameWhenLooping: 0
+    clickOffset: {x: 0, y: 0}
+    frameSpeeds: []
+    alwaysAnimate: 0
+  uiRawImage: {fileID: 0}
+  uiImageType: 0
 --- !u!114 &6553658078981209865
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -6814,7 +6982,7 @@ MonoBehaviour:
   title: Document
   manualSize: {x: 54.3, y: 65.80534}
   positionType: 0
-  manualPosition: {x: 210, y: 180}
+  manualPosition: {x: 376, y: 211.5}
   positionSmoothing: 0
   alignment: 4
   toggleKey: 
@@ -6896,10 +7064,10 @@ MonoBehaviour:
   biggestElementSize: {x: 0, y: 0}
   rect:
     serializedVersion: 2
-    x: 95.97
-    y: 61.550377
-    width: 228.06
-    height: 236.89925
+    x: 184.55423
+    y: 72.3217
+    width: 382.89154
+    height: 278.3566
   showInFilter: 1
 --- !u!114 &7205097182927763610
 MonoBehaviour:
@@ -6940,10 +7108,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.1
-    y: 2.1
-    width: 125.99999
-    height: 18
+    x: 3.5257049
+    y: 3.5257049
+    width: 211.5423
+    height: 21.15
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
@@ -7001,10 +7169,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 121.799995
-    height: 100.799995
+    x: 185.59311
+    y: 183.76015
+    width: 204.49088
+    height: 118.44
   relativePosition: {x: 47, y: 55.3}
   numSlots: 1
   uiImage: {fileID: 0}
@@ -7047,9 +7215,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 0
   title: Options
-  manualSize: {x: 37.000004, y: 39.666668}
+  manualSize: {x: 37, y: 41.668003}
   positionType: 0
-  manualPosition: {x: 210, y: 180}
+  manualPosition: {x: 376, y: 211.5}
   positionSmoothing: 0
   alignment: 0
   toggleKey: 
@@ -7130,14 +7298,84 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 153.3, y: 140.7}
+  biggestElementSize: {x: 257.37646, y: 172.72993}
   rect:
     serializedVersion: 2
-    x: 132.29999
-    y: 108.6
-    width: 155.40001
-    height: 142.8
+    x: 245.54892
+    y: 123.37218
+    width: 260.90216
+    height: 176.25565
   showInFilter: 1
+--- !u!114 &7869547701274123072
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64747f67d47cb4e04a88bea43b7c1cfd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ID: 0
+  title: Button
+  slotSize: {x: 18.2, y: 7.7}
+  sizeType: 1
+  positionType: 1
+  slotSpacing: 0
+  lineID: -1
+  alternativeInputButton: q
+  font: {fileID: 0}
+  fontScaleFactor: 2.117
+  fontColor: {r: 1, g: 1, b: 1, a: 1}
+  fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
+  isVisible: 1
+  isClickable: 1
+  orientation: 1
+  gridWidth: 3
+  backgroundTexture: {fileID: 2800000, guid: ac2dde689ce194d9a81a41f09e6b56b4, type: 3}
+  singleSlotBackgrounds: 0
+  highlightTexture: {fileID: 2800000, guid: 1ca077d28bbefcb409ea12482811a2ec, type: 3}
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 0}
+  changeCursor: 1
+  cursorID: 2
+  linkedUiID: 0
+  maxAutoWidthFactor: 0.5
+  relativeRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 128.33566
+    height: 32.571
+  relativePosition: {x: 0, y: 0}
+  numSlots: 1
+  uiButton: {fileID: 0}
+  uiPointerState: 0
+  _label: Objectives
+  hotspotLabel: 
+  hotspotLabelID: -1
+  anchor: 4
+  textEffects: 0
+  outlineSize: 2
+  buttonClickType: 3
+  actionList: {fileID: 11400000, guid: 548939425aceffb41b6b518bbd55dedc, type: 2}
+  parameterID: -1
+  parameterValue: 0
+  doFade: 0
+  switchMenuTitle: 
+  inventoryBoxTitle: 
+  shiftInventory: 0
+  shiftAmount: 1
+  onlyShowWhenEffective: 0
+  loopJournal: 0
+  inputAxis: 
+  simulateInput: 0
+  simulateValue: 1
+  clickTexture: {fileID: 2800000, guid: 5f4f3dd6223164fe49aea7eb6c0bc529, type: 3}
+  allowContinuousClick: 0
+  uiSelectableHideStyle: 0
 --- !u!114 &8125177274256150122
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -7177,12 +7415,12 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 0
-    height: 57.6
+    x: 35.764786
+    y: 193.19255
+    width: 253.85075
+    height: 67.68
   relativePosition: {x: 11.2, y: 66}
-  numSlots: 0
+  numSlots: 4
   uiSlots:
   - uiButton: {fileID: 0}
     uiButtonID: 705200
