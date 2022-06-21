@@ -131,6 +131,28 @@ MonoBehaviour:
     axisThreshold: 0.2
     buttonType: 0
     hasUpgraded: 1
+  - label: 1
+    ID: 2
+    inputName: 1
+    enabledOnStart: 1
+    gameState: 0
+    gameStateFlags: 0
+    actionListAsset: {fileID: 11400000, guid: fee69a78aaa13f94a90970eb25d7ddc9, type: 2}
+    inputType: 0
+    axisThreshold: 0.2
+    buttonType: 0
+    hasUpgraded: 1
+  - label: enter
+    ID: 3
+    inputName: enter
+    enabledOnStart: 1
+    gameState: 0
+    gameStateFlags: -1
+    actionListAsset: {fileID: 11400000, guid: fee69a78aaa13f94a90970eb25d7ddc9, type: 2}
+    inputType: 0
+    axisThreshold: 0.2
+    buttonType: 0
+    hasUpgraded: 1
   freeAimTouchSpeed: 0.01
   dragWalkThreshold: 5
   dragRunThreshold: 20
