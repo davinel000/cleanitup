@@ -31,7 +31,7 @@ MonoBehaviour:
   skipThresholdTime: 0
   endScrollBeforeSkip: 0
   ifSkipWhileScrolling: 0
-  scrollingTextFactorsLength: 1
+  scrollingTextFactorsLength: 0
   syncSubtitlesToAudio: 0
   useAssetBundles: 0
   searchAudioFiles: 1
