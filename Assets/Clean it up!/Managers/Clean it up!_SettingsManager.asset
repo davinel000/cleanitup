@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Clean it up!_SettingsManager
   m_EditorClassIdentifier: 
   separateEditorSaveFiles: 1
-  saveFileName: Clean it up!
+  saveFileName: Cleanitup!
   saveTimeDisplay: 0
   customSaveFormat: MMMM dd, yyyy
   takeSaveScreenshots: 0
