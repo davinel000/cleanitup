@@ -16,7 +16,7 @@ MonoBehaviour:
   - label: Energy
     id: 0
     type: 1
-    val: 50
+    val: 40
     floatVal: 0
     textVal: 
     gameObjectVal: {fileID: 0}
@@ -157,6 +157,26 @@ MonoBehaviour:
     id: 7
     type: 1
     val: 0
+    floatVal: 0
+    textVal: 
+    gameObjectVal: {fileID: 0}
+    gameObjectSaveReferences: 1
+    objectVal: {fileID: 0}
+    popUps: []
+    vector3Val: {x: 0, y: 0, z: 0}
+    link: 0
+    pmVar: 
+    updateLinkOnStart: 0
+    canTranslate: 1
+    popUpID: 0
+    textValLineID: -1
+    popUpsLineID: -1
+    description: 
+    showInFilter: 1
+  - label: Mood Multiplicator
+    id: 8
+    type: 1
+    val: 10
     floatVal: 0
     textVal: 
     gameObjectVal: {fileID: 0}

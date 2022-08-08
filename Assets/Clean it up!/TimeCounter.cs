@@ -8,6 +8,8 @@ public class TimeCounter : MonoBehaviour
 {
     public int stringVariableNumber = 6; // to put here the number of the correct variable (in case the order is changing)
     public int integerVariableNumber = 3;
+    public int minutesBetweenEvent = 1; // minutes between checking events
+    public int minutesBetweenChange = 10; // minutes between stats change during realtime procedures
 
     public string gameTime;
     // public TextMeshProUGUI mainClock;
@@ -24,6 +26,9 @@ public class TimeCounter : MonoBehaviour
     public int gameTimePrev=0;
     public AC.ActionList timeInteraction;
     public AC.ActionList statsInteraction;
+
+    bool change = false;
+    bool eventCheck = false;
 
     // Update is called once per frame
     private void Update()
@@ -45,6 +50,18 @@ public class TimeCounter : MonoBehaviour
         {            
             gameTimePrev = gameTimeUnified;            
             timeInteraction.RunFromIndex(0);
+        }
+
+
+        if ((gameTimeUnified % minutesBetweenChange == 0) && (change == false))
+        {
+            statsInteraction.RunFromIndex(0);
+            change = true;
+        }
+
+        else if ((gameTimeUnified % minutesBetweenChange != 0) && (change == true))
+        {
+            change = false;
         }
 
 

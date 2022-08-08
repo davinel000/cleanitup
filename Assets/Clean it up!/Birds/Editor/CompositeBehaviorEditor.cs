@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEditor;
 
 //[CustomEditor(typeof(CompositeBehavior))]
+//turned off because it's not working (mouse click)
 
 public class CompositeBehaviorEditor : Editor
 {
