@@ -247,7 +247,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4.845
     y: 133.225
-    width: 272.09424
+    width: 272.0942
     height: 47.85
   relativePosition: {x: 0, y: 0}
   numSlots: 1
@@ -3835,7 +3835,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 1
   title: Title
-  slotSize: {x: 23.521263, y: 5.3291535}
+  slotSize: {x: 23.521265, y: 5.3291535}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
@@ -3860,8 +3860,8 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 27.549541
-    y: 27.549541
+    x: 27.54954
+    y: 27.54954
     width: 400
     height: 50.999996
   relativePosition: {x: 0, y: 0}
@@ -5130,9 +5130,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 27.549541
+    x: 27.54954
     y: 304.5977
-    width: 399.63843
+    width: 399.63837
     height: 47.85
   relativePosition: {x: 0, y: 0}
   numSlots: 1
@@ -5873,7 +5873,7 @@ MonoBehaviour:
   _isLocked: 0
   id: 16
   title: Level Ending
-  manualSize: {x: 26.761261, y: 39.70713}
+  manualSize: {x: 26.761263, y: 39.70713}
   positionType: 2
   manualPosition: {x: 50, y: 71}
   positionSmoothing: 0
@@ -5956,7 +5956,7 @@ MonoBehaviour:
   biggestElementSize: {x: 427.54953, y: 352.4477}
   rect:
     serializedVersion: 2
-    x: 622.95044
+    x: 732.45044
     y: 489.47137
     width: 455.09906
     height: 379.99722
@@ -6528,9 +6528,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 27.549541
+    x: 27.54954
     y: 229.19817
-    width: 399.63843
+    width: 399.63837
     height: 47.85
   relativePosition: {x: 0, y: 0}
   numSlots: 1
@@ -7342,9 +7342,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.421
   relativeRect:
     serializedVersion: 2
-    x: 27.549541
-    y: 106.09908
-    width: 399.63843
+    x: 27.54954
+    y: 106.099075
+    width: 399.63837
     height: 34
   relativePosition: {x: 0, y: 0}
   numSlots: 1
@@ -9145,9 +9145,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 27.549541
+    x: 27.54954
     y: 167.64862
-    width: 399.63843
+    width: 399.63837
     height: 34
   relativePosition: {x: 0, y: 0}
   numSlots: 1

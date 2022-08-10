@@ -13,10 +13,10 @@ public class TimeCounter : MonoBehaviour
 
     public string gameTime;
     // public TextMeshProUGUI mainClock;
-    public string myFormat = "dd hh:mm:ss";
+    public string myFormat = "dd hh:mm:ss tt";
 
     
-    public System.TimeSpan timeSpan = new System.TimeSpan(0, 0, 0, 0, 0);
+    public System.TimeSpan timeSpan = new System.TimeSpan(0, 11, 29, 0, 0);
     public System.TimeSpan timeAdd; 
     public System.DateTime date = new System.DateTime(2022, 01, 01);
     public float timeRate = 1;
@@ -26,9 +26,9 @@ public class TimeCounter : MonoBehaviour
     public int gameTimePrev=0;
     public AC.ActionList timeInteraction;
     public AC.ActionList statsInteraction;
+    public AC.ActionList statsCheck;
 
-    bool change = false;
-    bool eventCheck = false;
+    bool change = false;    
 
     // Update is called once per frame
     private void Update()
@@ -42,7 +42,7 @@ public class TimeCounter : MonoBehaviour
         System.DateTime dateTime = System.DateTime.MinValue.Add(timeSpan+timeAdd);
 
         gameTime = dateTime.ToString(@myFormat);
-        gameTimeUnified = System.Int32.Parse(dateTime.ToString("ddhhmm"));
+        gameTimeUnified = System.Int32.Parse(dateTime.ToString("ddHHmm"));
         // mainClock.text = gameTime;
 
 
@@ -50,6 +50,7 @@ public class TimeCounter : MonoBehaviour
         {            
             gameTimePrev = gameTimeUnified;            
             timeInteraction.RunFromIndex(0);
+            statsCheck.RunFromIndex(0);
         }
 
 
