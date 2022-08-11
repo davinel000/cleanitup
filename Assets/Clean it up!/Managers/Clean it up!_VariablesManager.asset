@@ -36,7 +36,7 @@ MonoBehaviour:
   - label: Mood
     id: 1
     type: 1
-    val: 50
+    val: 30
     floatVal: 0
     textVal: 
     gameObjectVal: {fileID: 0}

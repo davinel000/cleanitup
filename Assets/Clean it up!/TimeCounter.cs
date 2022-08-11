@@ -51,6 +51,7 @@ public class TimeCounter : MonoBehaviour
             gameTimePrev = gameTimeUnified;            
             timeInteraction.RunFromIndex(0);
             statsCheck.RunFromIndex(0);
+            Debug.Log("stats checked");
         }
 
 
