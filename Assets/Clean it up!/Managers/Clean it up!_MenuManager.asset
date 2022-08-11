@@ -1806,7 +1806,7 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.527
   relativeRect:
     serializedVersion: 2
-    x: 230
+    x: 245
     y: 20
     width: 38
     height: 54
